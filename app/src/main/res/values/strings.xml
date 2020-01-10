@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InsertingData</string>
+    <string-array name="city">
+        <item>Pune</item>
+        <item>Ahmedabad</item>
+        <item>Mumbai</item>
+        <item>Baroda</item>
+        <item>Hydrabad</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>India</item>
+        <item>USA</item>
+        <item>Paris</item>
+        <item>Canada</item>
+        <item>London</item>
+    </string-array>
+</resources>
